@@ -1,8 +1,3 @@
-7.0w
-11680 V 27500
-programme nationale hd 
-11 00 00 11 00 00 00 00
-
 10.E
 11252 H 14400
 ENC 15
@@ -23,7 +18,10 @@ FA E4 15 F3 02 33 33 68
 id ESPN EMEA Service-6
 D7 98 74 E3 76 21 16 AD
 
-
+7.0w
+11680 V 27500
+programme nationale hd 
+11 00 00 11 00 00 00 00
 
 
 
